@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7210CAEE-2755-4B2C-BA37-A0D64FB44563}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Encapsulation-Inheritance-_220Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Encapsulation-Inheritance- Practice/Program.cs">
+    <Files>
+      <File FileName="Encapsulation-Inheritance- Practice/Controllers/BookController.cs" Line="52" Column="1" />
+      <File FileName="Encapsulation-Inheritance- Practice/Models/Student.cs" Line="1" Column="1" />
+      <File FileName="Encapsulation-Inheritance- Practice/Services/StudentService.cs" Line="1" Column="1" />
+      <File FileName="Encapsulation-Inheritance- Practice/Program.cs" Line="68" Column="1" />
+      <File FileName="Encapsulation-Inheritance- Practice/Services/BookService.cs" Line="1" Column="1" />
+      <File FileName="Encapsulation-Inheritance- Practice/Models/Book.cs" Line="1" Column="1" />
+      <File FileName="Encapsulation-Inheritance- Practice/Models/Car.cs" Line="1" Column="1" />
+      <File FileName="Encapsulation-Inheritance- Practice/Models/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="Encapsulation-Inheritance- Practice/Controllers/StudentController.cs" Line="46" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Encapsulation-Inheritance- Practice" expanded="True">
+            <Node name="Encapsulation-Inheritance- Practice">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
